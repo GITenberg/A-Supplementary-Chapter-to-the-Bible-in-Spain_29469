@@ -1,0 +1,37 @@
+_repo: A-Supplementary-Chapter-to-the-Bible-in-Spain_29469
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 29469-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Borrow, George
+    alias: Borrow, George Henry
+    birthdate: 1803
+    deathdate: 1881
+    gutenberg_agent_id: '4383'
+    url: http://www.gutenberg.org/2009/agents/4383
+    wikipedia: http://en.wikipedia.org/wiki/George_Borrow
+  editor:
+    agent_name: Wise, Thomas James
+    alias: Wise, Thomas J. (Thomas James)
+    birthdate: 1859
+    deathdate: 1937
+    gutenberg_agent_id: '31678'
+    url: http://www.gutenberg.org/2009/agents/31678
+    wikipedia: http://www.encyclopedia.com/topic/Thomas_James_Wise.aspx
+description: ''
+gutenberg_issued: '2009-07-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29469'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spain -- Description and travel'
+- !lcc 'DP'
+- !lcsh 'Ford, Richard, 1796-1858. Hand-book for travellers in Spain'
+title: A Supplementary Chapter to the Bible in Spain
+url: http://www.gutenberg.org/ebooks/29469
