@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/31678
     wikipedia: http://www.encyclopedia.com/topic/Thomas_James_Wise.aspx
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29469#A-Supplementary-Chapter-to-the-Bible-in-Spain
 gutenberg_issued: '2009-07-20'
 gutenberg_type: Text
 identifiers:
